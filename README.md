@@ -12,26 +12,26 @@ Deben quedar así las hojas:
 
 Hoja *react*:
 
-cte | Reaction
-K1  | <value>
-k2  | <value>
-k3  | <value>
-k4  | <value>
-.   | <value>
-.   | <value>
-.   | <value>
-Kn  | <value>
+cte | Reaction  
+K1  | <value>  
+k2  | <value>  
+k3  | <value>  
+k4  | <value>  
+.   | <value>  
+.   | <value>  
+.   | <value>  
+Kn  | <value>  
   
   
   
   Hoja *ConInic*
 
   
-Especie | Concinic
-Sigma32 | <value>
-S32     | <value>
-.       | <value>
-.       | <value>
-.       | <value>
-Especien| <value>
+Especie | Concinic  
+Sigma32 | <value>  
+S32     | <value>  
+.       | <value>  
+.       | <value>  
+.       | <value>  
+Especien| <value>  
   
