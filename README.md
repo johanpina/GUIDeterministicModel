@@ -14,9 +14,13 @@ Hoja *react*:
 
 cte | Reaction  
 K1  | <value>
+  
 k2  | <value>
+  
 k3  | <value>
+  
 k4  | <value>
+  
 .   | <value>
 .   | <value>
 .   | <value>
